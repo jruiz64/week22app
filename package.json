@@ -24,5 +24,8 @@
     "lowdb": "^1.0.0",
     "node": "^16.x"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "engines" : { 
+    "node" : ">=16.0.0"
+  }
 }
