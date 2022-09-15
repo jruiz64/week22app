@@ -21,11 +21,10 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "faker": "^5.1.0",
-    "lowdb": "^1.0.0",
-    "node": "^16.x"
+    "lowdb": "^1.0.0"
   },
   "devDependencies": {},
   "engines": {
-    "node": ">=14.0.0"
+  "node": "18.3.0"
   }
 }
